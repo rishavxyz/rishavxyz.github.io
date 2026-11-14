@@ -1,0 +1,25 @@
+<style>
+  div.empty-container {
+    display: grid;
+    place-items: center;
+    min-height: 60vh;
+  }
+  article.empty-card {
+    text-align: center;
+    width: 32rem;
+    @media (width < 768px) {
+      width: 100%;
+    }
+  }
+</style>
+
+<div class="empty-container">
+  <article class="empty-card">
+    <h2>%%title%%</h2>
+    <p>%%description%%</p>
+    <footer class="grid">
+      <a href="/" role="button" class="contrast outline">Find home</a>
+      <a href="/blogs" role="button">Read blogs</a>
+    </footer>
+  </article>
+</div>

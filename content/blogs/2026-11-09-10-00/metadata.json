@@ -1,0 +1,8 @@
+{
+  "title": "Hono RPC Without the Ceremony: A Friendly Way to Share Your API Types",
+  "excerpt": "Hono RPC can make a TypeScript frontend feel pleasantly close to its API. Here is how to set it up, where the type safety comes from, and the few boundaries it does not remove.",
+  "draft": false,
+  "at": "2026-11-09T10:00:00.000Z",
+  "category": "typescript",
+  "slug": "hono-rpc-without-the-ceremony"
+}

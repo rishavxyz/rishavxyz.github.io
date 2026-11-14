@@ -1,0 +1,8 @@
+{
+  "title": "How Caching and Indexing Actually Work in SQLite",
+  "excerpt": "A practical SQLite tutorial on page caches, the operating system cache, WAL snapshots, B-tree indexes, query planning, and the measurements that tell you what to improve.",
+  "draft": false,
+  "at": "2026-11-13T10:00:00.000Z",
+  "category": "databases",
+  "slug": "how-caching-and-indexing-work-in-sqlite"
+}

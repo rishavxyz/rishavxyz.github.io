@@ -1,0 +1,8 @@
+{
+  "title": "Inside the V8 Engine: How JavaScript Garbage Collection Actually Works",
+  "excerpt": "An in-depth journey into V8 memory management: the generational hypothesis, Cheney's scavenging algorithm, Mark-Sweep-Compact, and Orinoco concurrent marking.",
+  "draft": false,
+  "at": "2026-11-04T09:30:00.000Z",
+  "category": "javascript",
+  "slug": "how-javascript-handles-garbage-collection-v8"
+}

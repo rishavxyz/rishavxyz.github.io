@@ -1,0 +1,8 @@
+{
+  "title": "What V8 Is Doing While Your JavaScript Warms Up",
+  "excerpt": "A human-sized tour of V8’s path from source code to fast machine code: bytecode, feedback, hidden classes, inline caches, optimized tiers, and why deoptimizations are useful clues.",
+  "draft": false,
+  "at": "2026-11-09T14:30:00.000Z",
+  "category": "javascript",
+  "slug": "what-v8-is-doing-while-javascript-warms-up"
+}

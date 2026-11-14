@@ -1,0 +1,8 @@
+{
+  "title": "Advanced Next.js Techniques: Production Patterns, Streaming, and Cache Architecture",
+  "excerpt": "A deep dive into production-grade Next.js: React Server Component boundaries, granular streaming with Suspense, tag-based cache orchestration, and route interception.",
+  "draft": false,
+  "at": "2026-11-02T10:00:00.000Z",
+  "category": "nextjs",
+  "slug": "advanced-nextjs-tricks-and-patterns"
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Lambda Calculus for Working Programmers: From First Principles to the Y Combinator",
+  "excerpt": "Master the mathematical foundation of functional programming: syntax rules, beta reduction, Church encodings, and deriving the legendary Y Combinator in code.",
+  "draft": false,
+  "at": "2026-11-06T11:45:00.000Z",
+  "category": "theory",
+  "slug": "lambda-calculus-for-working-programmers"
+}

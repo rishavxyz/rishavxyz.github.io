@@ -1,0 +1,8 @@
+{
+  "title": "Demystifying Binary Executables: A Developer's Guide to ELF and Mach-O",
+  "excerpt": "Learn how operating systems load and execute compiled binaries: file headers, sections vs segments, symbol resolution, and hands-on disassembly with readelf and objdump.",
+  "draft": false,
+  "at": "2026-11-05T16:15:00.000Z",
+  "category": "systems",
+  "slug": "how-to-read-binary-executables-elf-macho"
+}

@@ -1,0 +1,8 @@
+{
+  "title": "B-Tree vs B+ Tree: The Difference That Makes Range Queries Feel Easy",
+  "excerpt": "A practical follow-up to SQLite caching and indexing: how B-trees and B+ trees organize data, why databases favor leaf-level scans, and where SQLite fits into the picture.",
+  "draft": false,
+  "at": "2026-11-13T12:00:00.000Z",
+  "category": "databases",
+  "slug": "b-tree-vs-b-plus-tree-for-database-indexes"
+}
